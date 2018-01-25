@@ -1,4 +1,4 @@
-# Kotlin-Guide-For-SublimeText_3
+# Kotlin-Guide-For-SublimeText-3
 This Guide is useful for windows based Sublime Text 3 Editor
 
 Follow the following steps to install kotlin language build in SublimeText 3:
